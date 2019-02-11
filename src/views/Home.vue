@@ -17,10 +17,10 @@ import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
   },
   metaInfo() {
     return {
-      title: 'My awesome title',
+      title: 'My awesome Home',
       meta: [
         // OpenGraph data (Most widely used)
-        {property: 'og:title', content: 'My Page Title ← My Site'},
+        {property: 'og:title', content: 'My Home ← My Site'},
         {property: 'og:site_name', content: 'My Site'},
         // The list of types is available here: http://ogp.me/#types
         {property: 'og:type', content: 'website'},
